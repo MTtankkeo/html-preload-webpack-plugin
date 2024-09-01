@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200px" src="https://github.com/user-attachments/assets/01c32c41-dc79-41fe-8490-d31f4157128a">
+  <img width="200px" src="https://github.com/user-attachments/assets/b60143db-1bb9-4986-bf19-0f20c1b2736c">
   <h1>HTML Preload Webpack Plugin</h1>
   <table>
         <thead>
